@@ -26,7 +26,7 @@
   <project path="external/vim" name="LineageOS/android_external_vim" revision="lineage-23.0" />
   <project path="hardware/lineage/compat" name="LineageOS/android_hardware_lineage_compat" revision="lineage-23.0" />
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" revision="lineage-23.0" />
-  <project path="lineage-sdk" name="LineageOS/android_lineage-sdk" revision="lineage-23.0" />
+  <project path="lineage-sdk" name="lineage-sdk" remote="caesium" />
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" revision="lineage-23.0" />
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" revision="lineage-23.0" />
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" revision="lineage-23.0" />
@@ -41,7 +41,7 @@
   <project path="packages/apps/Glimpse" name="LineageOS/android_packages_apps_Glimpse" revision="lineage-23.0" />
   <project path="packages/apps/Jelly" name="LineageOS/android_packages_apps_Jelly" revision="lineage-23.0" />
   <project path="packages/apps/LineageCustomizer" name="LineageOS/android_packages_apps_LineageCustomizer" revision="lineage-23.0" />
-  <project path="packages/apps/LineageParts" name="LineageOS/android_packages_apps_LineageParts" revision="lineage-23.0" />
+  <project path="packages/apps/LineageParts" name="packages_apps_CaesiumSettings" remote="caesium" />
   <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" revision="lineage-23.0" />
   <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" revision="lineage-23.0" />
   <project path="packages/apps/Seedvault" name="LineageOS/android_packages_apps_Seedvault" revision="lineage-23.0" />
