@@ -8,7 +8,7 @@ To get started with Android/CaesiumOS, you'll need to get familiar with [Source 
 
 To initialize your local repository using the CaesiumOS trees, use a command like this:
 ```
-repo init -u https://github.com/CaesiumOS/manifest.git -b caesium-3.5-beta --git-lfs
+repo init -u https://github.com/CaesiumOS/manifest.git -b caesium-3.5 --git-lfs
 ```
 Then to sync up:
 ```
