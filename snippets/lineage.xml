@@ -49,7 +49,7 @@
   <project path="packages/apps/SimpleDeviceConfig" name="LineageOS/android_packages_apps_SimpleDeviceConfig" revision="lineage-23.0" />
   <project path="packages/apps/SimpleSettingsConfig" name="LineageOS/android_packages_apps_SimpleSettingsConfig" revision="lineage-23.0" />
   <project path="packages/apps/Twelve" name="LineageOS/android_packages_apps_Twelve" revision="lineage-23.0" />
-  <project path="packages/apps/Updater" name="packages_apps_Updater" revision="lineage-23.0" />
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="caesium" />
   <project path="packages/overlays/Lineage" name="LineageOS/android_packages_overlays_Lineage" revision="lineage-23.0" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-23.0" />
   <project path="prebuilts/extract-tools" name="LineageOS/android_prebuilts_extract-tools" clone-depth="1" revision="lineage-23.0" />
