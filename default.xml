@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch="github.com" />
+           fetch="..." />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
