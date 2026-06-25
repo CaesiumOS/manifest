@@ -14,6 +14,19 @@ Then to sync up:
 ```
 repo sync
 ```
+### Device-specific trees
+
+Device-specific trees are suggested to be fetched using local manifests instead of using `breakfast`, as not all devices supported by CaesiumOS are supported by LineageOS.
+
+I suggest looking here for some local manifests compatible with CaesiumOS: https://github.com/CharaROMAndroid/device_manifests
+
+If your device is officially supported by LineageOS (and doesn't have a custom tree equivalent you want to use), continue to use `breakfast` for the timebeing before I sort out a universal solution for all devices.
+
+> [!WARNING]
+> `breakfast <device codename>` is still required to be run before doing a build for a specific device!
+
+### Building
+
 Building instructions will be provided soon!
 
 
